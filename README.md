@@ -1,4 +1,4 @@
-Project link - https://karbandashboardrishabh2743.netlify.app/dashboard
+Project link - https://karbandashboardrishabh2743.netlify.app
 
 # admin_frontend
 ### Dashboard
